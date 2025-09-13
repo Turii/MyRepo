@@ -32,5 +32,6 @@ I'm a QA Automation Engineer passionate about testing, Python/Java, and explorin
 - I love building small but meaningful QA projects
 - Currently mentoring and testing courses at DeepLearning.AI
 
+
 ---
 Thanks for stopping by! Feel free to connect or check out my pinned projects 📂
